@@ -2,5 +2,5 @@ clas v1{
   svm(String[]args){
     sop("v1.a")//signup & login
     sop("v1.a+v1.b")// compose and inbox && signup and login
-    
+    sop("v1.a+v1.b+v1.c")//all emails
 }
